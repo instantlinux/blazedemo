@@ -1,0 +1,5 @@
+---
+modules:
+  blazemeter:
+    token: f6ae0482ef93e35b85f135df
+    test: Taurus Demo JW
