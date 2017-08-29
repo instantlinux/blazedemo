@@ -5,7 +5,7 @@ execution:
   ramp-up: 1m
   locations:
     us-east-1: 1
-  locations-weighted: true
+  locations-weighted: false
   scenario: Thread Group
 scenarios:
   Thread Group:
